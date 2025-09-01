@@ -1,0 +1,27 @@
+{
+  "name": "@vibium/playwright",
+  "version": "1.0.0",
+  "description": "Vibium - E-commerce Testing Library for Playwright",
+  "main": "vibium.js",
+  "types": "vibium.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vibium",
+    "playwright",
+    "testing",
+    "e-commerce",
+    "automation"
+  ],
+  "author": "Vibium Team",
+  "license": "MIT",
+  "peerDependencies": {
+    "@playwright/test": "^1.40.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}

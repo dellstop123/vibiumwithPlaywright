@@ -1,0 +1,15 @@
+vibium==0.0.1
+playwright==1.40.0
+pytest==7.4.3
+pytest-playwright==0.4.2
+selenium==4.15.2
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+pandas==2.1.4
+numpy==1.25.2
+matplotlib==3.8.2
+seaborn==0.13.0
+pytest-html==4.1.1
+pytest-xdist==3.5.0
+pytest-cov==4.1.0

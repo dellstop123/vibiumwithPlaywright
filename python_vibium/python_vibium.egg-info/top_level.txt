@@ -1,0 +1,10 @@
+assertions
+core
+data
+ecommerce
+elements
+forms
+navigation
+performance
+screenshots
+wait
