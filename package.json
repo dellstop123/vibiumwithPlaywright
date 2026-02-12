@@ -26,7 +26,7 @@
     "vibium": "^0.0.1"
   },
   "devDependencies": {
-    "@playwright/test": "^1.40.0",
+    "@playwright/test": "^1.56.1",
     "@types/node": "^20.0.0"
   },
   "dependencies": {
